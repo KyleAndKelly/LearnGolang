@@ -7,7 +7,7 @@
 
 ### Step 2. Extract 
 
-- the downloaded Go package to a specified directory by using the following command
+- Extract the downloaded Go package to a specified directory by using the following command
 
 ```
 cd /home
