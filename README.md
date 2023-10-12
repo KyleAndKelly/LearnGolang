@@ -3,7 +3,7 @@
 
 ## Golang Basic
 
-#### [01. Enviroment Setup](GoBasic/01_enviroment%20steup.md)
+#### [01. Enviroment Setup](GoBasic/01%20Enviroment%20Steup.md)
 
 
 ## Gin
