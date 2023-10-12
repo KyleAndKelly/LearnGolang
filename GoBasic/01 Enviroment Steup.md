@@ -1,5 +1,5 @@
 
-- Env: Win11 + WSL + VsCode
+- Env: Win11 + Linux WSL + VsCode
 
 ### Step 1. Download 
 
